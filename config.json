@@ -1,0 +1,13 @@
+{
+  "channelId": "channel Id",
+
+  "clientId": "client Id",
+
+  "guildId": "server Id",
+
+  "token": "Bot token",
+
+  "userName": "workis.online username",
+
+  "password": "workis.online password"
+}
